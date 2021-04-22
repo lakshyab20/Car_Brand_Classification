@@ -93,7 +93,7 @@ terminado==0.9.4
 testpath==0.4.4
 threadpoolctl==2.1.0
 tornado==6.1
-traitlets==50.5
+traitlets==5.0.5
 urllib3==1.2.4
 wcwidth==0.2.5
 webencodings==0.5.1
